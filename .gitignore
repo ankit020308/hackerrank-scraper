@@ -1,6 +1,6 @@
-.venv/
+cookie.txt
 __pycache__/
 *.pyc
+.env
+.venv/
 .DS_Store
-cookie.txt
-
